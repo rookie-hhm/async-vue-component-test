@@ -1,14 +1,12 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
-   {{ value }}
-   <input type="text">
+    SubHome
   </div>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'SubHome',
   props: {
     msg: String,
     value: {
